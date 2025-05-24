@@ -1,0 +1,5 @@
+gradio
+fitz
+python-docx
+groq
+
