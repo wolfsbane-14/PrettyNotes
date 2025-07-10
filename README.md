@@ -1,8 +1,10 @@
 # ✨ PrettyNotes
 
-PrettyNotes is a minimal tool that converts **text-based PDFs** (like lecture notes or research papers) into clean, structured DOCX outlines—highlighted, hierarchical, and ready to edit.
+Tired of skimming through unstructured PDFs or manually reformatting study material? **PrettyNotes** helps you turn cluttered PDFs into neat, editable DOCX outlines — complete with bullet hierarchies, clean formatting, and color-coded keywords.
 
-> Think of it as your personal PDF-to-outline assistant, focused on preserving content *exactly as written*.
+Whether you're dealing with lecture notes, research papers, or documentation, PrettyNotes ensures the **original content stays untouched** — just better organized and easier to work with.
+
+> Upload a PDF. Get a structured Word doc. No fluff, no rewriting — just clean formatting.
 
 
 
