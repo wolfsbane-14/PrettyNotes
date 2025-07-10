@@ -21,8 +21,11 @@ PrettyNotes is a minimal tool that converts **text-based PDFs** (like lecture no
 
 
 ![Interface of the Website](img/img1.png)
+*Interface of the Website*
 ![Output of the PDF](img/img2.png)
+*Output of the PDF with overall accuracy statistics provided*
 ![Generated DOCX Output](img/img3.png)
+*Generated DOCX Output*
 
 
 
