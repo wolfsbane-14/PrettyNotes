@@ -1,4 +1,5 @@
 # ✨ PrettyNotes
+[![Hugging Face Spaces](https://img.shields.io/badge/Try_on-HuggingFace-ffcc00?logo=huggingface&style=for-the-badge)](https://huggingface.co/spaces/jatinsingh14/PrettyNotes)
 
 Tired of skimming through unstructured PDFs or manually reformatting study material? **PrettyNotes** helps you turn cluttered PDFs into neat, editable DOCX outlines — complete with bullet hierarchies, clean formatting, and color-coded keywords.
 
