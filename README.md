@@ -31,7 +31,7 @@ Whether you're dealing with lecture notes, research papers, or documentation, Pr
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python** (backend logic)
 - **PyMuPDF** for PDF text extraction
@@ -41,7 +41,7 @@ Whether you're dealing with lecture notes, research papers, or documentation, Pr
 
 
 
-## 🧪 Local Setup
+##  Local Setup
 
 ```bash
 git clone https://github.com/your-username/PrettyNotes.git
@@ -70,11 +70,11 @@ Highlighted words like if, process, development
 Fonts: Courier New for better code-style clarity
 
 ## ⚠️ Notes
-- ❌ Doesn’t work with scanned image-based PDFs
+- Doesn’t work with scanned image-based PDFs
 
-- 🧹 All temporary DOCX files are cleaned automatically
+- All temporary DOCX files are cleaned automatically
 
-- 🤖 Gemini is used strictly for formatting, not rewriting
+- Gemini is used strictly for formatting, not rewriting
 
 ## Why PrettyNotes?
 Because manually reformatting PDF content is time-consuming. PrettyNotes automates the job without messing up your content—perfect for students, educators, and researchers.
