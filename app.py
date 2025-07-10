@@ -269,9 +269,11 @@ with gr.Blocks(
       background-attachment: fixed;
       font-family: 'Segoe UI', sans-serif;
     }
+
     body, body * {
       color: white;
     }
+
     .gradio-container,
     .gradio-container *,
     .gr-markdown,
@@ -284,11 +286,13 @@ with gr.Blocks(
     p, span, div {
       color: white;
     }
+
     @media (prefers-color-scheme: dark) {
       body, body * {
         color: white !important;
       }
     }
+
     @media (prefers-color-scheme: light) {
       .gr-button,
       .gr-textbox,
